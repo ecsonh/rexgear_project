@@ -1,0 +1,12 @@
+2024-07-18 08:29:50.816 [info] Log level: Info
+2024-07-18 08:29:50.816 [info] Validating found git in: "git"
+2024-07-18 08:29:50.816 [info] Using git "2.34.1" from "git"
+2024-07-18 08:29:50.817 [info] > git rev-parse --show-toplevel [19ms]
+2024-07-18 08:29:50.817 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-18 08:29:50.817 [info] > git rev-parse --show-toplevel [12ms]
+2024-07-18 08:29:50.817 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-18 08:29:50.862 [info] > git rev-parse --show-toplevel [5ms]
+2024-07-18 08:29:50.863 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-18 08:29:50.937 [info] > git rev-parse --show-toplevel [14ms]
+2024-07-18 08:29:50.937 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-07-18 08:59:45.774 [warning] Failed to get repository realpath for: "/home/ecson/.vscode-server/extensions/.eca477ec-2b15-4411-8220-8c4115985cf3/". Error: ENOENT: no such file or directory, realpath '/home/ecson/.vscode-server/extensions/.eca477ec-2b15-4411-8220-8c4115985cf3/'
